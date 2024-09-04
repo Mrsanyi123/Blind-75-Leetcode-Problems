@@ -1,20 +1,20 @@
-# 🧠 Blind 75 LeetCode Problems
+# 🧠 Blind 75 LeetCode Problems 🔍
 
-Welcome to the Blind 75 LeetCode problems list! This collection of 
-problems is an essential resource for anyone preparing for technical
-interviews. Below, I've included the problems that are neatly categorized by topic.
+Welcome to my repository featuring the 75 Blind LeetCode Questions! 🎯 These problems are a carefully curated list of essential coding challenges designed to help you prepare for technical interviews and improve your problem-solving skills. 💪
 
 ## Table of Contents
-* Array
-* Binary
-* Dynamic Programming
-* Graph
-* Interval
-* Linked List
-* Matrix
-* String
+* 📊 Array
+* 🔢 Binary
+* 🧩 Dynamic Programming
+* 🗺️ Graph
+* 📅 Interval
+* 🔗 Linked List
+* 🗺️ Matrix
+* 🔤 String
 * Tree
 * Heap
+
+## 🗂️ List of Questions
 
 ## 📊 Array
 1. Two Sum
@@ -86,25 +86,38 @@ interviews. Below, I've included the problems that are neatly categorized by top
 53. Valid Anagram
 54. Group Anagrams
 55. Valid Parentheses
+56. Valid Palindrome
+57. Longest Palindromic Substring
+58. Palindromic Substrings
+## 🌳 Tree
+59. Maximum Depth of Binary Tree
+60. Same Tree
+61. Invert/Flip Binary Tree
+62. Binary Tree Maximum Path Sum
+63. Binary Tree Level Order Traversal
+64. Serialize and Deserialize Binary Tree
+65. Subtree of Another Tree
+66. Construct Binary Tree from Preorder and Inorder Traversal
+67. Validate Binary Search Tree
+68. Kth Smallest Element in a BST
+69. Lowest Common Ancestor of BST
+70. Implement Trie (Prefix Tree)
+71. Add and Search Word
+72. Word Search II
 
-## 🔍 Additional Questions
-56. Binary Tree Level Order Traversal
-57. Maximum Depth of Binary Tree
-58. Validate Binary Search Tree
-59. Path Sum
-60. Symmetric Tree
-61. Merge Intervals
-62. Single Number
-63. Top K Frequent Elements
-64. Find Peak Element
-65. Rotate Array
-66. Subarray Sum Equals K
-67. Construct Binary Tree from Inorder and Postorder Traversal
-68. Decode Ways
-69. Longest Valid Parentheses
-70. Jump Game II
-71. Trapping Rain Water
-72. Find Minimum in Rotated Sorted Array
-73. Kth Largest Element in an Array
-74. Find the Duplicate Number
-75. Intersection of Two Arrays II
+## 📊 Heap
+73. Merge K Sorted Lists
+74. Top K Frequent Elements
+75. Find Median from Data Stream
+
+## Thank You for Reading! 🙏
+
+Thank you for checking out my repository of the **75 Blind LeetCode Questions**! I hope you find it helpful for your coding journey. 
+
+If you enjoyed the content and would like to support my work, consider:
+- [Sponsoring me]([url](https://github.com/sponsors/Mrsanyi123)) 
+- [Buying me a coffee]([url](https://github.com/sponsors/Mrsanyi123)) ☕ 
+- [Following me on GitHub]([url](https://github.com/Mrsanyi123))
+- [Starring this repository to stay tuned for updates]([url](https://github.com/Mrsanyi123/Blind-75-Leetcode-Problems/))
+
+Your support means a lot and helps me continue creating valuable resources. Happy coding and best of luck with your practice! 🚀
