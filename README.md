@@ -115,9 +115,10 @@ Welcome to my repository featuring the 75 Blind LeetCode Questions! 🎯 These p
 Thank you for checking out my repository of the **75 Blind LeetCode Questions**! I hope you find it helpful for your coding journey. 
 
 If you enjoyed the content and would like to support my work, consider:
-- [Sponsoring me]([url](https://github.com/sponsors/Mrsanyi123)) 
-- [Buying me a coffee]([url](https://github.com/sponsors/Mrsanyi123)) ☕ 
-- [Following me on GitHub]([url](https://github.com/Mrsanyi123))
-- [Starring this repository to stay tuned for updates]([url](https://github.com/Mrsanyi123/Blind-75-Leetcode-Problems/))
+- Sponsor me 💗 -- https://github.com/sponsors/Mrsanyi123 
+- Buy me a coffee ☕ -- https://github.com/sponsors/Mrsanyi123 
+- Follow me on GitHub ✅ -- https://github.com/Mrsanyi123
+- Follow me on Linkedin 🤗 -- https://www.linkedin.com/in/sanyi-diriba
+- Starring this repository to stay tuned for updates ⭐ -- https://github.com/Mrsanyi123/Blind-75-Leetcode-Problems
 
 Your support means a lot and helps me continue creating valuable resources. Happy coding and best of luck with your practice! 🚀
