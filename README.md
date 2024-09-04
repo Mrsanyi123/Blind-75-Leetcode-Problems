@@ -1,13 +1,13 @@
-#🧠 Blind 75 LeetCode Problems
+# 🧠 Blind 75 LeetCode Problems
 
 Welcome to the Blind 75 LeetCode problems list! This collection of 
 problems is an essential resource for anyone preparing for technical
 interviews. Below, I've included the problems that are neatly categorized by topic.
 
 ## Table of Contents
-Array
-Binary
-Dynamic Programming
+* Array
+* Binary
+* Dynamic Programming
 Graph
 Interval
 Linked List
