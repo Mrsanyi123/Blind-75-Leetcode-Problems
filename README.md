@@ -17,71 +17,94 @@ interviews. Below, I've included the problems that are neatly categorized by top
 * Heap
 
 ## 📊 Array
-- Two Sum
-- Best Time to Buy and Sell Stock
-- Contains Duplicate
-- Product of Array Except Self
-- Maximum Subarray
-- Maximum Product Subarray
-- Find Minimum in Rotated Sorted Array
-- Search in Rotated Sorted Array
-- 3 Sum
-- Container With Most Water
+1. Two Sum
+2. Best Time to Buy and Sell Stock
+3. Contains Duplicate
+4. Product of Array Except Self
+5. Maximum Subarray
+6. Maximum Product Subarray
+7. Find Minimum in Rotated Sorted Array
+8. Search in Rotated Sorted Array
+9. 3 Sum
+10. Container With Most Water
+
 ## 🔢 Binary
-- Sum of Two Integers
-- Number of 1 Bits
-- Counting Bits
-- Missing Number
-- Reverse Bits
+11. Sum of Two Integers
+12. Number of 1 Bits
+13. Counting Bits
+14. Missing Number
+15. Reverse Bits
+
 ## 🧩 Dynamic Programming
-- Climbing Stairs
-- Coin Change
-- Longest Increasing Subsequence
-- Longest Common Subsequence
-- Word Break Problem
-- Combination Sum
-- House Robber
-- House Robber II
-- Decode Ways
-- Unique Paths
-- Jump Game
+16. Climbing Stairs
+17. Coin Change
+18. Longest Increasing Subsequence
+19. Longest Common Subsequence
+20. Word Break Problem
+21. Combination Sum
+22. House Robber
+23. House Robber II
+24. Decode Ways
+25. Unique Paths
+26. Jump Game
 
 ## 🗺️ Graph
-- Clone Graph
-- Course Schedule
-- Pacific Atlantic Water Flow
-- Number of Islands
-- Longest Consecutive Sequence
-- Alien Dictionary (LeetCode Premium)
-- Graph Valid Tree (LeetCode Premium)
-- Number of Connected Components in an Undirected Graph (LeetCode Premium)
+27. Clone Graph
+28. Course Schedule
+29. Pacific Atlantic Water Flow
+30. Number of Islands
+31. Longest Consecutive Sequence
+32. Alien Dictionary (LeetCode Premium)
+33. Graph Valid Tree (LeetCode Premium)
+34. Number of Connected Components in an Undirected Graph (LeetCode Premium)
 
 ## 📅 Interval
-- Insert Interval
-- Merge Intervals
-- Non-overlapping Intervals
-- Meeting Rooms (LeetCode Premium)
-- Meeting Rooms II (LeetCode Premium)
+35. Insert Interval
+36. Merge Intervals
+37. Non-overlapping Intervals
+38. Meeting Rooms (LeetCode Premium)
+39. Meeting Rooms II (LeetCode Premium)
 
 ## 🔗 Linked List
-- Reverse a Linked List
-- Detect Cycle in a Linked List
-- Merge Two Sorted Lists
-- Merge K Sorted Lists
-- Remove Nth Node From End Of List
-- Reorder List
+40. Reverse a Linked List
+41. Detect Cycle in a Linked List
+42. Merge Two Sorted Lists
+43. Merge K Sorted Lists
+44. Remove Nth Node From End Of List
+45. Reorder List
 
 ## 🗺️ Matrix
-- Set Matrix Zeroes
-- Spiral Matrix
-- Rotate Image
-- Word Search
+46. Set Matrix Zeroes
+47. Spiral Matrix
+48. Rotate Image
+49. Word Search
 
 ## 🔤 String
-- Longest Substring Without Repeating Characters
-- Longest Repeating Character Replacement
-- Minimum Window Substring
-- Valid Anagram
-- Group Anagrams
-- Valid Parentheses
+50. Longest Substring Without Repeating Characters
+51. Longest Repeating Character Replacement
+52. Minimum Window Substring
+53. Valid Anagram
+54. Group Anagrams
+55. Valid Parentheses
 
+## 🔍 Additional Questions
+56. Binary Tree Level Order Traversal
+57. Maximum Depth of Binary Tree
+58. Validate Binary Search Tree
+59. Path Sum
+60. Symmetric Tree
+61. Merge Intervals
+62. Single Number
+63. Top K Frequent Elements
+64. Find Peak Element
+65. Rotate Array
+66. Subarray Sum Equals K
+67. Construct Binary Tree from Inorder and Postorder Traversal
+68. Decode Ways
+69. Longest Valid Parentheses
+70. Jump Game II
+71. Trapping Rain Water
+72. Find Minimum in Rotated Sorted Array
+73. Kth Largest Element in an Array
+74. Find the Duplicate Number
+75. Intersection of Two Arrays II
