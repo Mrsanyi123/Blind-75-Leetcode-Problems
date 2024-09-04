@@ -2,6 +2,9 @@
 
 Welcome to my repository featuring the 75 Blind LeetCode Questions! 🎯 These problems are a carefully curated list of essential coding challenges designed to help you prepare for technical interviews and improve your problem-solving skills. 💪
 
+![7a78f48a-574f-4da2-84df-328914729384](https://github.com/user-attachments/assets/39a1726e-cec2-4bde-bf70-83e3525f0b78)
+
+
 ## Table of Contents
 * 📊 Array
 * 🔢 Binary
